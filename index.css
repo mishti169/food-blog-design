@@ -226,8 +226,8 @@ body {
 	text-transform: uppercase;
 }
 .btn-scroll {
-	width: 30px;
-	height: 30px;
+	width: 50px;
+	height: 50px;
 	position: fixed;
 	background: #51d275;
 	color: #151515;
@@ -263,6 +263,8 @@ body {
 	overflow: hidden;
 	border-radius: 50%;
 	aspect-ratio: 1/1;
+	max-height: 400px;
+	margin: auto;
 }
 
 .round-img {
